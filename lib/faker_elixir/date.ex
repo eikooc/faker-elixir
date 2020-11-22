@@ -56,7 +56,7 @@ defmodule FakerElixir.Date do
   end
 
   @doc """
-  Return a date in the future
+  Return a date in the past
 
   ## Examples
 
